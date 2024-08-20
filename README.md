@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghibmohd01
 - 👀 I’m interested in Mobile App Development Technologies.
-- 🌱 I’m currently learning Android.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter and iOS(Swift).
+- 💞️ I’m looking to collaborate on Flutter Development.
 - 📫 reach me at raghibmohd01@gmail.com
 
 <!---
